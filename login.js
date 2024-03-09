@@ -1,5 +1,5 @@
 
-console.log("anas pawaskar learning java script");
+console.log("anas pawaskar learning java script");      //trying to learn the printing statements
 name = "anas pawaskar"
 console.log(name);
 age = 24
@@ -29,7 +29,7 @@ console.log(typeof profile["username"]);
 
 let a = 5
 let b = 6
-console.log("a && b  =" , a < b && a  == "5" )
+console.log("a && b  =" , a < b && a  == "5" )            // learing operators and logic
 
 
 
